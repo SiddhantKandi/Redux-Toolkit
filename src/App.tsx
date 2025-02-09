@@ -23,7 +23,7 @@ import Counter from "./Components/Counter.tsx";
 function App() {
   return (
     <>
-      <h1>React Redux Tutorial</h1>
+      <h1 className="text-center text-blue-500 mt-4 mb-10">React Redux Tutorial</h1>
       <Counter />
     </>
   );
